@@ -142,13 +142,10 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 📧 Contacto
 
-TFacundo Carbajal - [@Facundo_Carbajal](www.linkedin.com/in/facundo-carbajal)
+Facundo Carbajal - [@Facundo_Carbajal](www.linkedin.com/in/facundo-carbajal)
 
 Link del Proyecto: [https://github.com/facundocarbajal2-dev/LimonIA]([https://github.com/tu-usuario/limon-ia](https://github.com/facundocarbajal2-dev/LimonIA/tree/main))
 
